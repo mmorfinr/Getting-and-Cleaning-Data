@@ -7,6 +7,9 @@
 ## 4. Appropriately labels the data set with descriptive activity names.
 ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+# load packages
+library(dplyr)
+setwd("~/DataScience")
 
 
 
